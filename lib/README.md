@@ -1,0 +1,1 @@
+This files were compiled using [DirectXTex](https://github.com/microsoft/DirectXTex/tree/main/DirectXTex), without any modification. They are copyrighted by their respective owners. License and other information about it may be obtained at the website linked before.
