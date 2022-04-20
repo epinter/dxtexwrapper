@@ -1,0 +1,4 @@
+*.cpp text
+*.h text
+*.lib binary
+*.dll binary

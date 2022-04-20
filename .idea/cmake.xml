@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSharedSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Release-VisualStudio-x64" ENABLED="true" GENERATION_DIR="out/release-msvc-x64" CONFIG_NAME="Release" TOOLCHAIN_NAME="Visual Studio" GENERATION_OPTIONS="-G &quot;Visual Studio 17 2022&quot; -T v141,host=x64 -A x64" />
+      <configuration PROFILE_NAME="Release-VisualStudio-x86" ENABLED="true" GENERATION_DIR="out/release-msvc-x86" CONFIG_NAME="Release" TOOLCHAIN_NAME="Visual Studio" GENERATION_OPTIONS="-G &quot;Visual Studio 17 2022&quot; -T v141,host=x86 -A Win32" />
+      <configuration PROFILE_NAME="Release-CLangCL-x64" ENABLED="true" GENERATION_DIR="out/release-clangcl-x64" CONFIG_NAME="Release" TOOLCHAIN_NAME="Visual Studio CLangCL (amd64)" GENERATION_OPTIONS="-G &quot;Visual Studio 17 2022&quot; -T CLangCL,host=x64 -A x64" />
+      <configuration PROFILE_NAME="Release-CLangCL-x86" ENABLED="true" GENERATION_DIR="out/release-clangcl-x86" CONFIG_NAME="Release" TOOLCHAIN_NAME="Visual Studio CLangCL (x86)" GENERATION_OPTIONS="-G &quot;Visual Studio 17 2022&quot; -T CLangCL,host=x86 -A Win32" />
+    </configurations>
+  </component>
+</project>

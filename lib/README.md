@@ -1,0 +1,1 @@
+These static libraries were built using [DirectXTex](https://github.com/microsoft/DirectXTex/tree/main/DirectXTex), without modification. They are copyrighted by their respective owners. License and other information about it may be obtained at the website linked before.
